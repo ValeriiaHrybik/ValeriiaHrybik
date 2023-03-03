@@ -13,7 +13,9 @@
   </a>
 </div>
 <div align="center">
-<pre><h3>L͢a͢n͢g͢u͢a͢g͢e͢s͢ a͢n͢d͢ t͢o͢o͢l͢s͢ I͢ u͢s͢e͢:</h3></pre></div>
+<pre><h3>L͢a͢n͢g͢u͢a͢g͢e͢s͢ a͢n͢d͢ t͢o͢o͢l͢s͢ I͢ u͢s͢e͢:</h3></pre>
+</div>
+
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
@@ -37,10 +39,10 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
 </div>
 
-
-<div align="left">
-<pre><h4><strong>I͢'m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ a͢c͢t͢i͢v͢e͢ s͢p͢o͢r͢t͢s͢, l͢e͢a͢r͢n͢i͢n͢g͢ f͢o͢r͢e͢i͢g͢n͢ l͢a͢n͢g͢u͢a͢g͢e͢s͢, t͢r͢a͢v͢e͢l͢l͢i͢n͢g͢ a͢n͢d͢ m͢y͢ f͢u͢r͢ b͢a͢b͢i͢e͢s͢🐱‍👓</h4></pre>
+<div align="center">
+<pre><h4>I͢'m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ a͢c͢t͢i͢v͢e͢ s͢p͢o͢r͢t͢s͢, l͢e͢a͢r͢n͢i͢n͢g͢ f͢o͢r͢e͢i͢g͢n͢ l͢a͢n͢g͢u͢a͢g͢e͢s͢, t͢r͢a͢v͢e͢l͢l͢i͢n͢g͢ a͢n͢d͢ m͢y͢ f͢u͢r͢ b͢a͢b͢i͢e͢s͢🐱‍👓</h4></pre>
 </div>
+
 <div align="center">
 <img src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?w=1390&crop=1" style="width:300px"></div>
 
