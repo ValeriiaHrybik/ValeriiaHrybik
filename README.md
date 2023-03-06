@@ -2,7 +2,7 @@
 𝘊𝘩𝘰𝘰𝘴𝘦 𝘢 𝘫𝘰𝘣 𝘺𝘰𝘶 𝘭𝘰𝘷𝘦 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘯𝘦𝘷𝘦𝘳 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘸𝘰𝘳𝘬 𝘢 𝘥𝘢𝘺 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘭𝘪𝘧𝘦!
 </p>
 <div align="center">
-<img src="https://im5.ezgif.com/tmp/ezgif-5-88d2161d6a.gif"></div>
+<img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
  <h3 align="center">H͢i͢ t͢h͢e͢r͢e͢ 👋M͢y͢ n͢a͢m͢e͢ i͢s͢ V͢a͢l͢e͢r͢i͢e͢. I͢'m͢ a͢ S͢o͢ft͢w͢a͢r͢e͢ Q͢A͢ A͢u͢t͢o͢m͢a͢t͢i͢o͢n͢ E͢n͢g͢i͢n͢e͢e͢r͢. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
 
